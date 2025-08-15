@@ -1,0 +1,3 @@
+[submodule "OpenGL-Image-Viewer"]
+	path = OpenGL-Image-Viewer
+	url = https://github.com/sushant-k-ray/OpenGL-Image-Viewer.git
